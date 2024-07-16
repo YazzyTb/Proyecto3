@@ -9,6 +9,7 @@ nav{
 }
 h1{
     color: white;
+    text-align: center;
 }
 #time-line{
     content: '';

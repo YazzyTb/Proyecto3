@@ -122,3 +122,6 @@ h1{
     100%{transform: translateY(500px);opacity: 0;}
 }
 
+.imagen{
+    width: 100px;
+}

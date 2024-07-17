@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    fetch('/Cronologia/asset/data/data.JSON')
+    fetch('/Cronologia/asset/data/data2.JSON')
         .then(response => response.json())
         .then(data => {
             const timelineContainer = document.getElementById("timeline-container");
@@ -14,6 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     const movieElement = document.createElement("div");
                     movieElement.className = "timeline-item";
                     movieElement.innerHTML = `
+                        <img class="imagen" src="${movie.img}" alt="${movie.nombre}">
                         <h2>${movie.nombre} (${movie.año})</h2>
                         <p>${movie.sinopsis}</p>
                     `;
@@ -29,7 +30,7 @@ var _items = document.querySelectorAll(".timeline-item")
             element.classList.add('_show')
 })
 
-window.addEventListener("scroll",timelineContainer =>{
+window.addEventListener("scroll", timelineContainer =>{
     var scroll =document.documentElement.scrollTop
     var items = document.querySelectorAll(".timeline-item")
     items.forEach(elem => {

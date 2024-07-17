@@ -1,0 +1,163 @@
+{
+    "Fase 1": [
+      {
+        "img": "/Cronologia/img/ironMan1.jpg",
+        "nombre": "Iron Man",
+        "sinopsis": "Tras ser secuestrado, el industrial millonario Tony Stark construye una armadura de alta tecnología para escapar. Al regresar a casa, decide usar su tecnología para luchar contra el mal como Iron Man.",
+        "año": 2008
+      },
+      {
+        "nombre": "The Incredible Hulk",
+        "sinopsis": "El científico Bruce Banner busca una cura para su condición, que lo convierte en el gigante verde Hulk cuando pierde el control de su temperamento.",
+        "año": 2008
+      },
+      {
+        "nombre": "Iron Man 2",
+        "sinopsis": "Tony Stark revela su identidad como Iron Man y enfrenta presiones del gobierno, el público y sus propios demonios para compartir su tecnología con el ejército. Mientras tanto, un nuevo enemigo emerge.",
+        "año": 2010
+      },
+      {
+        "nombre": "Thor",
+        "sinopsis": "El poderoso Thor es desterrado del reino celestial de Asgard por su padre Odin debido a su arrogancia y es enviado a la Tierra para vivir entre los humanos, donde aprende lo que significa ser un verdadero héroe.",
+        "año": 2011
+      },
+      {
+        "nombre": "Captain America: The First Avenger",
+        "sinopsis": "Steve Rogers, un joven enclenque rechazado por el ejército, se convierte en el supersoldado Captain America para luchar contra los nazis y su división secreta, Hydra, durante la Segunda Guerra Mundial.",
+        "año": 2011
+      },
+      {
+        "nombre": "The Avengers",
+        "sinopsis": "Nick Fury, director de S.H.I.E.L.D., recluta a un equipo de superhéroes, incluyendo a Iron Man, Captain America, Thor, Hulk, Black Widow y Hawkeye, para detener al malvado Loki y su ejército alienígena.",
+        "año": 2012
+      }
+    ],
+    
+    "Fase 2": [
+      {
+        "nombre": "Iron Man 3",
+        "sinopsis": "Tony Stark enfrenta las consecuencias de su vida como Iron Man cuando un enemigo conocido como el Mandarín ataca, empujándolo al borde de la desesperación.",
+        "año": 2013
+      },
+      {
+        "nombre": "Thor: The Dark World",
+        "sinopsis": "Thor lucha por restablecer el orden en el cosmos cuando una antigua raza liderada por el vengativo Malekith amenaza con sumir al universo en la oscuridad.",
+        "año": 2013
+      },
+      {
+        "nombre": "Captain America: The Winter Soldier",
+        "sinopsis": "Steve Rogers, ahora trabajando para S.H.I.E.L.D., se enfrenta a un nuevo enemigo en la forma del misterioso Winter Soldier mientras descubre una conspiración que amenaza la seguridad mundial.",
+        "año": 2014
+      },
+      {
+        "nombre": "Guardians of the Galaxy",
+        "sinopsis": "Peter Quill forma una incompleta alianza con un grupo de inadaptados cósmicos cuando roba un orbe codiciado por el villano Ronan el Acusador.",
+        "año": 2014
+      },
+      {
+        "nombre": "Avengers: Age of Ultron",
+        "sinopsis": "Los Vengadores deben unirse nuevamente para derrotar al robot Ultron, que planea la extinción humana.",
+        "año": 2015
+      },
+      {
+        "nombre": "Ant-Man",
+        "sinopsis": "El ladrón Scott Lang se convierte en el superhéroe Ant-Man cuando recibe una tecnología que le permite reducir su tamaño pero aumentar su fuerza, y debe ayudar a su mentor a evitar que dicha tecnología caiga en manos equivocadas.",
+        "año": 2015
+      }
+    ],
+    "Fase 3": [
+      {
+        "nombre": "Captain America: Civil War",
+        "sinopsis": "Un desacuerdo político fractura a los Vengadores en dos bandos: uno liderado por Steve Rogers y el otro por Tony Stark, en una batalla sobre la responsabilidad y la libertad.",
+        "año": 2016
+      },
+      {
+        "nombre": "Doctor Strange",
+        "sinopsis": "El brillante pero arrogante cirujano Stephen Strange sufre un accidente que destruye su carrera. En su búsqueda de curación, encuentra a The Ancient One y se convierte en un poderoso hechicero.",
+        "año": 2016
+      },
+      {
+        "nombre": "Guardians of the Galaxy Vol. 2",
+        "sinopsis": "Los Guardianes deben luchar para mantener unida su nueva familia mientras descubren el verdadero linaje de Peter Quill.",
+        "año": 2017
+      },
+      {
+        "nombre": "Spider-Man: Homecoming",
+        "sinopsis": "Peter Parker, emocionado por su experiencia con los Vengadores, intenta equilibrar su vida como un estudiante de secundaria con su identidad como el superhéroe Spider-Man.",
+        "año": 2017
+      },
+      {
+        "nombre": "Thor: Ragnarok",
+        "sinopsis": "Thor debe escapar de la prisión de Sakaar y salvar Asgard de la destrucción inminente por parte de Hela, la diosa de la muerte.",
+        "año": 2017
+      },
+      {
+        "nombre": "Black Panther",
+        "sinopsis": "T'Challa, el rey de Wakanda, asume el manto de Black Panther y lucha contra enemigos que amenazan con destruir su nación.",
+        "año": 2018
+      },
+      {
+        "nombre": "Avengers: Infinity War",
+        "sinopsis": "Los Vengadores y sus aliados deben sacrificar todo en un intento de derrotar al poderoso Thanos antes de que su blitz de devastación y ruina ponga fin al universo.",
+        "año": 2018
+      },
+      {
+        "nombre": "Ant-Man and The Wasp",
+        "sinopsis": "Scott Lang lidia con las consecuencias de sus elecciones como superhéroe y padre mientras lucha junto a The Wasp para descubrir secretos de su pasado.",
+        "año": 2018
+      },
+      {
+        "nombre": "Captain Marvel",
+        "sinopsis": "Carol Danvers se convierte en uno de los héroes más poderosos del universo cuando la Tierra se encuentra atrapada en medio de una guerra galáctica entre dos razas alienígenas.",
+        "año": 2019
+      },
+      {
+        "nombre": "Avengers: Endgame",
+        "sinopsis": "Después de la devastadora derrota ante Thanos, los Vengadores restantes deben encontrar la manera de traer de vuelta a sus aliados desaparecidos y restaurar el equilibrio del universo.",
+        "año": 2019
+      },
+      {
+        "nombre": "Spider-Man: Far From Home",
+        "sinopsis": "Peter Parker va de viaje escolar a Europa, pero su plan de dejar atrás sus actividades de superhéroe se descarrila cuando Nick Fury lo recluta para una misión que involucra a criaturas elementales.",
+        "año": 2019
+      }
+    ],
+    "Fase 4": [
+      {
+        "nombre": "Black Widow",
+        "sinopsis": "Natasha Romanoff se enfrenta a los aspectos más oscuros de su cuenta pendiente cuando una peligrosa conspiración con vínculos a su pasado surge.",
+        "año": 2021
+      },
+      {
+        "nombre": "Shang-Chi and the Legend of the Ten Rings",
+        "sinopsis": "Shang-Chi se ve obligado a confrontar el pasado que pensó que había dejado atrás cuando es atraído a la red de la misteriosa organización de los Diez Anillos.",
+        "año": 2021
+      },
+      {
+        "nombre": "Eternals",
+        "sinopsis": "Los Eternals, una raza de seres inmortales con poderes sobrehumanos, emergen de su escondite para proteger la Tierra de sus enemigos, los Deviants.",
+        "año": 2021
+      },
+      {
+        "nombre": "Spider-Man: No Way Home",
+        "sinopsis": "Peter Parker recurre al Doctor Strange para borrar su identidad secreta de la memoria del mundo, pero el hechizo sale mal y libera a los enemigos de Spider-Man de otras realidades.",
+        "año": 2021
+      },
+      {
+        "nombre": "Doctor Strange in the Multiverse of Madness",
+        "sinopsis": "Doctor Strange, con la ayuda de aliados místicos antiguos y nuevos, atraviesa las alucinantes y peligrosas realidades alternas del Multiverso para enfrentarse a un nuevo y misterioso adversario.",
+        "año": 2022
+      },
+      {
+        "nombre": "Thor: Love and Thunder",
+        "sinopsis": "Thor se embarca en una búsqueda por la paz interior, pero su retiro se ve interrumpido por Gorr el Dios Carnicero, un asesino galáctico que busca la extinción de los dioses.",
+        "año": 2022
+      },
+      {
+        "nombre": "Black Panther: Wakanda Forever",
+        "sinopsis": "Los líderes de Wakanda luchan para proteger a su nación de las potencias mundiales que intervienen tras la muerte del Rey T'Challa.",
+        "año": 2022
+      }
+    ]
+  }
+  
